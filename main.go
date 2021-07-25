@@ -6,5 +6,5 @@ func Hello() (hello string) {
 }
 
 func main() {
-	Hello()
+	Server()
 }
